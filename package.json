@@ -6,5 +6,14 @@
     "AngularJS Vancouver <http://www.meetup.com/vanangularJS>"
   ],
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "vangularjs-meetup-december-4-2013": "latest",
+    "vangularjs-meetup-november-13-2013": "latest",
+    "vangularjs-meetup-january-8-2014": "latest",
+    "vangularjs-meetup-february-5-2014": "latest",
+    "vangularjs-meetup-march-5-2014": "latest",
+    "vangularjs-meetup-april-2-2014": "latest",
+    "vangularjs-meetup-may-7-2014": "latest",
+    "vangularjs-meetup-june-4-2014-2": "latest"
+  }
 }
