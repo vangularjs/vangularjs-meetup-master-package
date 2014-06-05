@@ -1,0 +1,9 @@
+{
+  "name": "vangularjs-meetup-master-package",
+  "description": "The master repo for all meetup packages",
+  "version": "0.0.0",
+  "author": "AngularJS Vancouver <http://www.meetup.com/vanangularJS>",
+  "license": "MIT",
+  "dependencies": {}
+}
+
